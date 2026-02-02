@@ -132,20 +132,6 @@ Phase 2: 动态系统 (规划中)
 · 音频可视化
 · 3D变换支持
 
-🌟 特色功能
-
-实时REPL
-
-```javascript
-// 在游戏内直接编程
-> system.create("fireworks").burst(1000)
-> debug.showParticleStats()
-> hotReload("my_script.es")
-```
-
-性能监视器
-
-docs/images/perf-monitor.png
 
 💬 社区
 
