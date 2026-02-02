@@ -1,5 +1,6 @@
 Ethereal Script ✨
-![EDIT_20260202_202842](https://github.com/user-attachments/assets/dfc1384f-9433-4051-9c42-bb4aad9242c0)
+
+![Uploading EDIT_20260202_203615.png…]()
 
 
 🌌 代码即画布，粒子即像素
