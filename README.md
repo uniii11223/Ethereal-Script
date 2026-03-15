@@ -1,6 +1,6 @@
 Ethereal Script ✨
 
-![EDIT_20260202_203615](https://github.com/user-attachments/assets/d2250cd0-5b0e-4d0f-8cc6-83945d5cba07)
+![EDIT_20260202_203615](https://github.com/noodultra/LimeMod/blob/main/logo.png)
 
 
 
